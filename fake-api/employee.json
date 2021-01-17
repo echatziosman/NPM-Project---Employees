@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Enes Chatzi Osman",
+      "department": "Yazilim",
+      "salary": 5300,
+      "id": 1
+    },
+    {
+      "name": "Mehmet Ardic",
+      "department": "Bilisim",
+      "salary": 5000,
+      "id": 6
+    },
+    {
+      "name": "Adem Nalbantoglu",
+      "department": "Insan Kaynaklari",
+      "salary": 4500,
+      "id": 7
+    }
+  ]
+}
